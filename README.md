@@ -116,13 +116,11 @@ streamlit run app.py
 
 ## 📸 Application Preview
 
-Add a screenshot of your application here.
+<img width="1358" height="637" alt="1" src="https://github.com/user-attachments/assets/9bfeb0fc-06f3-454f-820b-da72f54707eb" />
 
-Example:
+<img width="1358" height="633" alt="2" src="https://github.com/user-attachments/assets/fa9bb9cd-ef0a-4d99-b1aa-181395b43b49" />
 
-```text
-assets/screenshot.png
-```
+
 
 ---
 
