@@ -6,7 +6,7 @@ A modern **Machine Learning web application** built with **Streamlit** that pred
 
 ## 🚀 Live Demo
 
-🔗 **Demo: https://irisflowerclassificationmlmodel.streamlit.app/
+🔗 **Demo: https://irisflowerclassificationmlmodel.streamlit.app**
 
 ---
 
