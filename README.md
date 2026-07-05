@@ -44,20 +44,6 @@ The application features a modern dark-themed dashboard with an interactive inte
 
 ---
 
-## 📂 Project Structure
-
-```text
-Iris-Flower-Classification/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-└── assets/
-    └── screenshot.png
-```
-
----
-
 ## 📊 Dataset
 
 The project uses the **Iris Dataset**, one of the most popular datasets in machine learning.
